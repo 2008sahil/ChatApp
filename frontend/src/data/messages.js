@@ -35,7 +35,7 @@ export const messages = [
       _id: "2",
       name: "John Doe",
     },
-    content: "How's it going!",
+    content: "How's it goig!",
     chat: "60a3de1ff381d830b884998d",
     createdAt: "2021-05-18T17:09:14.447Z",
     updatedAt: "2021-05-18T17:09:14.447Z",

@@ -37,7 +37,7 @@ const chats = [
         email: "anthony@example.com",
       },
       {
-        name: "Piyush",
+        name: "Piyush", 
         email: "piyush@example.com",
       },
     ],

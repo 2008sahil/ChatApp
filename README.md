@@ -6,7 +6,7 @@ Certainly, here's a sample README file for your MERN project, "ChatZen":
 ChatZen is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js). It offers a secure and interactive platform for users to engage in group chats and one-to-one real-time conversations. This README provides essential information on how to initialize the project and highlights its key functionalities.
 
 ## Project Overview
-
+ 
 ChatZen is designed to provide a seamless and interactive chatting experience. It includes the following key features:
 
 - **User Authentication**: Users can create accounts, sign in, and personalize their profiles. Authentication is handled securely using Firebase Authentication.

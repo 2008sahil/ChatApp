@@ -12,22 +12,20 @@ connectDB();
 
 const app = express();
 
-app.use(express.json()); // to accept json dataiamge
+app.use(express.json()); 
 
 // app.get("/", (req, res) => {
 //   res.send("API Running!");
 // });
 
-app.use("/api/user", userRoutes);
-app.use("/api/chat", chatRoutes);
-app.use("/api/message", messageRoutes);
+app.use("/handleUser", userRoutes);
+app.use("/Chat", chatRoutes);
+app.use("/messages", messageRoutes);
 
 // --------------------------deployment------------------------------
 
-const __dirname1 = path.resolve();
-
 // if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname1, "../frontend/build/")));
+  app.use(express.static(path.join(__dirname, "../frontend/build/")));
 
   app.get("*", (req,res)=>{
     res.sendFile(path.join(__dirname,'../frontend/build/index.html'))

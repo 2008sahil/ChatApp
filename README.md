@@ -1,4 +1,4 @@
-Certainly, here's a 
+Certainly, here'
 
 
 # ChatZen - MERN Chat Application

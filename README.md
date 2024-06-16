@@ -1,5 +1,3 @@
- 
-
 
 # ChatZen - MERN Chat Application
 

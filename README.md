@@ -1,4 +1,4 @@
-Certainly, here's a sample README file for your MERN project, 
+Certainly, here's a sample README file for your MERN 
 
 
 # ChatZen - MERN Chat Application

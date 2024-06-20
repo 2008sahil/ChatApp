@@ -1,6 +1,7 @@
 
 
 
+
 # ChatZen - MERN Chat Application
 
 ChatZen is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js). It offers a secure and interactive platform for users to engage in group chats and one-to-one real-time conversations. This README provides essential information on how to initialize the project and highlights its key functionalities.
